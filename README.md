@@ -1,7 +1,7 @@
 # DBSD
 Driver Behavior Bio-signal Dataset
 
-The compressed ADBsDataset file contains five CSV files
+The compressed DBSD Dataset file contains five CSV files
 
 The CollectedDataSamples file is a CSV file containing all samples of aggressive driving behaviors. It is collected from the accelerometer (Accel_X, Accel_Y, Accel_Z) and gyroscope (Gyro_X, Gyro_Y, Gyro_Z) of the Wearable Shimmer3 IMU Unit sensor, as well as, the Timestamp, Class_Number, Class_Label, Class_Name. 
 It contains 120,000 data samples.
